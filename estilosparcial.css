@@ -1,0 +1,50 @@
+body { background-color: #272727;
+    display: block;
+    margin: 12px;
+    border: 12px;
+    padding: 4px;}
+    
+
+    hr {height: 4px;}
+    a {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        color:rgb(255, 255, 255);}
+    
+    U {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        color:rgb(255, 255, 255);}
+    
+    h2 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font: size 35px;;
+        color:rgb(255, 255, 255);}
+    
+    h4 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: small;
+        color:rgb(255, 255, 255);}
+    
+    h1 {color:rgb(255, 255, 255);
+        text-align: auto; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #272727; }
+
+    h3 {color:rgb(255, 255, 255);
+        text-align: auto; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #272727; }
+    
+    p { font-family: Arial, Helvetica, sans-serif; color:rgb(255, 255, 255);
+        text-align: auto;}
+    
+    ul{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: small;
+        color:rgb(255, 255, 255);}
+    
+    li {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        color:rgb(255, 255, 255);}
+       
+    b {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 16px;
+        color:rgb(255, 255, 255);}
+    
+    td {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: small;
+        color:rgb(255, 255, 255);}
+
+    
